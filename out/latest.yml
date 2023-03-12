@@ -1,8 +1,8 @@
-version: 2.5.1
+version: 2.5.2
 files:
-  - url: Tools-win-2.5.1-x64.exe
-    sha512: 9zatHAwChZ4XZqDQ6WxPfhn+YMBOwR7ymSWgnrjA9XWT9joa6bqai5T4hkVuPAmS67Ou4luqZGUZNEUvQqF0ig==
-    size: 69511141
-path: Tools-win-2.5.1-x64.exe
-sha512: 9zatHAwChZ4XZqDQ6WxPfhn+YMBOwR7ymSWgnrjA9XWT9joa6bqai5T4hkVuPAmS67Ou4luqZGUZNEUvQqF0ig==
-releaseDate: '2023-03-12T08:32:38.098Z'
+  - url: Tools-win-2.5.2-x64.exe
+    sha512: QBY7CgxIIPOpDwPJDVbSVdnpfoMzCwUS/P1+2YMGi23lpak7Cd2SCyajy81bBBxcgesG+BpSvAzcxN439EAk7Q==
+    size: 69510757
+path: Tools-win-2.5.2-x64.exe
+sha512: QBY7CgxIIPOpDwPJDVbSVdnpfoMzCwUS/P1+2YMGi23lpak7Cd2SCyajy81bBBxcgesG+BpSvAzcxN439EAk7Q==
+releaseDate: '2023-03-12T08:50:04.881Z'
