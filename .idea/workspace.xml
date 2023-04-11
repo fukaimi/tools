@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d798b7c4-2bae-4c49-a752-fd2189fd3bd2" name="默认变更列表" comment="new version 2.5.3" />
+    <list default="true" id="d798b7c4-2bae-4c49-a752-fd2189fd3bd2" name="默认变更列表" comment="new version 2.5.7" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -41,6 +41,19 @@
       <recent name="E:\code\tools\out" />
     </key>
   </component>
+  <component name="RunManager">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="默认任务">
@@ -56,6 +69,7 @@
       <workItem from="1678845640264" duration="849000" />
       <workItem from="1678861435312" duration="593000" />
       <workItem from="1679379490685" duration="108000" />
+      <workItem from="1680663381466" duration="114000" />
     </task>
     <task id="LOCAL-00001" summary="new version 2.5.0">
       <created>1678607438137</created>
@@ -113,7 +127,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679379557701</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="new version 2.5.7">
+      <created>1680663422321</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1680663422321</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -135,6 +156,7 @@
     <MESSAGE value="new version 2.5.0" />
     <MESSAGE value="new version 2.5.2" />
     <MESSAGE value="new version 2.5.3" />
-    <option name="LAST_COMMIT_MESSAGE" value="new version 2.5.3" />
+    <MESSAGE value="new version 2.5.7" />
+    <option name="LAST_COMMIT_MESSAGE" value="new version 2.5.7" />
   </component>
 </project>
